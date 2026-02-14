@@ -151,4 +151,4 @@
 ibteshamakhtar1_db_user
 i038nlcDqXOMPT3X
 
-mongodb+srv://ibteshamakhtar1_db_user:<db_password>@cluster0.2pnvact.mongodb.net/?appName=Cluster0
+mongodb+srv://ibteshamakhtar1_db_user:i038nlcDqXOMPT3X@cluster0.2pnvact.mongodb.net/?appName=Cluster0
