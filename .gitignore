@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+
+# ibteshamakhtar1_db_user
+# i038nlcDqXOMPT3X
+
+# mongodb+srv://ibteshamakhtar1_db_user:i038nlcDqXOMPT3X@cluster0.2pnvact.mongodb.net/?appName=Cluster0
+
+# export MONGODB_URL="mongodb+srv://ibteshamakhtar1_db_user:i038nlcDqXOMPT3X"
